@@ -30,6 +30,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.ts",
     "scripts/seed.js"
-  ],
+, "app/api/customers/route.js", "rehash.ts"  ],
   "exclude": ["node_modules"]
 }
